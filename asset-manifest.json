@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Netnada-Website/static/css/main.15def2bc.css",
-    "main.js": "/Netnada-Website/static/js/main.8df93c55.js",
+    "main.js": "/Netnada-Website/static/js/main.c6eb2dd1.js",
     "static/media/tour-3.jpeg": "/Netnada-Website/static/media/tour-3.89febbb4fd22c898d5e9.jpeg",
     "static/media/tour-1.jpeg": "/Netnada-Website/static/media/tour-1.6f51ae9794a50648f7f0.jpeg",
     "static/media/tour-4.jpeg": "/Netnada-Website/static/media/tour-4.c97d36c9a3e37f6f4be4.jpeg",
@@ -10,10 +10,10 @@
     "static/media/logo.jpeg": "/Netnada-Website/static/media/logo.3113abd94b727ac83bb2.jpeg",
     "index.html": "/Netnada-Website/index.html",
     "main.15def2bc.css.map": "/Netnada-Website/static/css/main.15def2bc.css.map",
-    "main.8df93c55.js.map": "/Netnada-Website/static/js/main.8df93c55.js.map"
+    "main.c6eb2dd1.js.map": "/Netnada-Website/static/js/main.c6eb2dd1.js.map"
   },
   "entrypoints": [
     "static/css/main.15def2bc.css",
-    "static/js/main.8df93c55.js"
+    "static/js/main.c6eb2dd1.js"
   ]
 }
