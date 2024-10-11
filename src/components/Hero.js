@@ -6,7 +6,10 @@ const Hero = () => {
     <section className="hero" id="home">
       {/* 添加视频背景 */}
       <video autoPlay muted loop className="background-video">
-        <source src="/videos/main.mp4" type="video/mp4" />
+        <source
+          src={`${process.env.PUBLIC_URL}/videos/main.mp4`}
+          type="video/mp4"
+        />
         您的浏览器不支持视频标签。
       </video>
 
@@ -17,7 +20,7 @@ const Hero = () => {
           and reduce their environmental footprint, all while saving time,
           money, and, most importantly, the planet.
         </p>
-        <a href="#about" className="btn hero-btn">
+        <a href="#" className="btn hero-btn">
           explore more
         </a>
       </div>
