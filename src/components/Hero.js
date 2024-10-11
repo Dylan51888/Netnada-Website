@@ -20,7 +20,7 @@ const Hero = () => {
           and reduce their environmental footprint, all while saving time,
           money, and, most importantly, the planet.
         </p>
-        <a href="#" className="btn hero-btn">
+        <a href="#story" className="btn hero-btn">
           explore more
         </a>
       </div>
